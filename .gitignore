@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+constants
+constants.py
+*constants*
+*Constants*
 .Python
 build/
 develop-eggs/
