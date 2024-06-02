@@ -1,2 +1,2 @@
 # poly_examples
-Examples using Polygon.io
+Examples using [Polygon.io](https://polygon.io/)
