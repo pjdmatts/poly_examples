@@ -92,8 +92,6 @@ From the book 'How Finance Works', Desai
 
 ## $\frac{365}{\frac{sales}{receivables}}$
 
-## $\frac{Cost Of Goods Sold}{Inventory}$
 
-### Days inventory
 
 
