@@ -86,4 +86,14 @@ From the book 'How Finance Works', Desai
 
 ### Days inventory
 
+## $\frac{365}{Inventory Turnover}$
+
+### Receivables Collection Period
+
+## $\frac{365}{\frac{sales}{receivables}}$
+
+## $\frac{Cost Of Goods Sold}{Inventory}$
+
+### Days inventory
+
 
