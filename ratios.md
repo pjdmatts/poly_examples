@@ -26,6 +26,12 @@ See, for example,  'How Finance Works', by Desai
 
 - [ ] Asset Turnover
 
+- [ ] Inventory Turnover
+
+- [ ] Days Inventory
+
+- [ ] Receivables Collection Period
+
 # Ratios
 
 From the book 'How Finance Works', Desai
@@ -80,8 +86,4 @@ From the book 'How Finance Works', Desai
 
 ### Days inventory
 
-- [ ] Inventory Turnover
 
-- [ ] Days Inventory
-
-- [ ] Receivables Collection Period
